@@ -1,0 +1,8 @@
+C:\Users\Infarma\Documents\Visual Studio 2008\Projects\InputData\InputData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Infarma\Documents\Visual Studio 2008\Projects\InputData\InputData\obj\Debug\InputData.InputDatas.resources
+C:\Users\Infarma\Documents\Visual Studio 2008\Projects\InputData\InputData\obj\Debug\InputData.Properties.Resources.resources
+C:\Users\Infarma\Documents\Visual Studio 2008\Projects\InputData\InputData\obj\Debug\InputData.csproj.GenerateResource.Cache
+C:\Users\Infarma\Documents\Visual Studio 2008\Projects\InputData\InputData\bin\Debug\InputData.exe
+C:\Users\Infarma\Documents\Visual Studio 2008\Projects\InputData\InputData\bin\Debug\InputData.pdb
+C:\Users\Infarma\Documents\Visual Studio 2008\Projects\InputData\InputData\obj\Debug\InputData.exe
+C:\Users\Infarma\Documents\Visual Studio 2008\Projects\InputData\InputData\obj\Debug\InputData.pdb
